@@ -1,0 +1,52 @@
+{
+    "id": "game_configs_id",
+    "createdAt": "2022-12-22T17:53:17.006Z",
+    "coinShopConfigs": {
+        "TYPE_5": {
+            "amount": 10000,
+            "cost": 10000,
+            "discount": 0,
+            "type": "TYPE_5"
+        },
+        "TYPE_6": {
+            "amount": 30000,
+            "cost": 30000,
+            "discount": 0,
+            "type": "TYPE_6"
+        },
+        "TYPE_3": {
+            "amount": 3000,
+            "cost": 3000,
+            "discount": 0,
+            "type": "TYPE_3"
+        },
+        "TYPE_4": {
+            "amount": 5000,
+            "cost": 5000,
+            "discount": 0,
+            "type": "TYPE_4"
+        },
+        "TYPE_1": {
+            "amount": 500,
+            "cost": 500,
+            "discount": 0,
+            "type": "TYPE_1"
+        },
+        "TYPE_2": {
+            "amount": 1000,
+            "cost": 1000,
+            "discount": 0,
+            "type": "TYPE_2"
+        }
+    },
+    "updatedAt": "2022-12-22T17:53:17.006Z",
+    "dailyReward": 200,
+    "registerReward": 1000,
+    "QuizCoin": 30,
+    "WheelCoinNormal": 100,
+    "WheelCoinSpacial": 200,
+    "QuizWrongCoin": 20,
+    "QuizRightCoin": 40,
+    "QuizComboCoin": 200,
+    "VideoReward": 50
+}
